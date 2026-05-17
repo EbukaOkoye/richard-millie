@@ -131,7 +131,7 @@ export default function LandingPage() {
                   Free Premium Bracelet Included
                 </h4>
                 <p className="text-sm text-grey leading-relaxed">
-                  A ₦15,000 value, yours free with every Omega Speedmaster order
+                  A ₦15,000 value, yours free with every RM Ferrari order
                   today. The perfect pairing for a complete luxury look.
                 </p>
                 <p className="mt-4 text-[11px] font-bold text-gold uppercase tracking-[2px]">
@@ -248,7 +248,7 @@ export default function LandingPage() {
                       Built for Style AND Comfort
                     </h3>
                     <p className="mt-2 text-sm text-gray-600 dark:text-gray-400 sm:text-base">
-                      This watch isn't just stylish — it's built for daily wear.
+                      This watch isn&apos;t just stylish — it&apos;s built for daily wear.
                       You get luxury appearance + everyday durability.
                     </p>
                   </div>
@@ -265,10 +265,10 @@ export default function LandingPage() {
                       A Watch That Gets Noticed
                     </h3>
                     <p className="mt-2 text-sm text-gray-600 dark:text-gray-400 sm:text-base">
-                      Many watches look ordinary. This one doesn't. The
+                      Many watches look ordinary. This one doesn&apos;t. The
                       multi-dial design and bold structure make it instantly
-                      eye-catching. Don't be surprised when people ask: "Where
-                      did you get that watch?"
+                      eye-catching. Don&apos;t be surprised when people ask: &quot;Where
+                      did you get that watch?&quot;
                     </p>
                   </div>
                 </div>
@@ -504,7 +504,7 @@ export default function LandingPage() {
                     ))}
                   </div>
                   <p className="mt-3 text-base font-medium text-gray-900 dark:text-gray-200 sm:mt-4 sm:text-lg">
-                    "{review}"
+                    &quot;{review}&quot;
                   </p>
                   <p className="mt-2 text-xs text-gray-500 sm:text-sm">
                     Verified Buyer
@@ -683,7 +683,7 @@ export default function LandingPage() {
                 ⏳ LAST CALL
               </h2>
               <p className="mt-4 text-base text-gray-600 dark:text-gray-400 sm:text-xl">
-                The ₦85,000 promo price will not last. Don't miss the
+                The ₦85,000 promo price will not last. Don&apos;t miss the
                 opportunity to own this bold luxury watch at the discounted
                 price.
               </p>
